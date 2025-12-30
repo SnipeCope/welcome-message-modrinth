@@ -2,6 +2,7 @@
 ## What's this?
 
 Just a mod that shows a welcome message the first time a player joins a world.
+This version of the mod supports **only** Fabric 1.18.2.
 
 **Warning: this mod is not intended for public use. Minecraft *might* crash if you run this mod.**
 
