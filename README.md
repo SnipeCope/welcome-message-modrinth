@@ -1,4 +1,4 @@
-# **Warning: this mod is not intended for public use. Minecraft *might* crash if you run this mod.**
+### **Warning: this mod is not intended for public use. Minecraft *might* crash if you run this mod.**
 
 ## Downloads
 
@@ -61,4 +61,5 @@ This mod does not store, process, or collect:
 
 
 All stored data is strictly limited to enabling the intended functionality of the mod and is not used for tracking, profiling, or analytics purposes.
+
 
