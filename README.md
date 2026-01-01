@@ -2,7 +2,8 @@
 
 ## Downloads
 
-**Latest version (1.19.2)**: [Latest](https://github.com/SnipeCope/welcome-message-modrinth/blob/main/releases/release%201.2.4/description.md)
+**Latest version (1.19.2)**: [Latest](https://github.com/SnipeCope/welcome-message-modrinth/blob/main/releases/release%201.2.4%2B1.19.2%20F/description.md)
+
 **Latest version (1.18.2)**: [Latest](https://github.com/SnipeCope/welcome-message-modrinth/blob/main/releases/release%201.4.5/description.md)
 
 **Past versions**: [Older versions](https://github.com/SnipeCope/welcome-message-modrinth/tree/main/releases)
@@ -62,6 +63,7 @@ This mod does not store, process, or collect:
 
 
 All stored data is strictly limited to enabling the intended functionality of the mod and is not used for tracking, profiling, or analytics purposes.
+
 
 
 
